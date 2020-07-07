@@ -1,0 +1,38 @@
+﻿html, body {
+    height: 100%;
+    width: 100%;
+}
+
+#container {
+    margin: auto;
+}
+
+#poke-container {
+    /*margin: auto;*/
+    margin: 10px 100px;
+    width: 90%;
+    padding: 10px;
+}
+
+    #poke-container p, h4 {
+        padding-left: 20px;
+    }
+
+#header-container {
+    border-radius: 0px !important;
+}
+
+#header-text {
+    margin: 0 auto;
+}
+
+#generate-pokemon {
+    margin: 0 auto;
+}
+
+#delete-btn {
+    position: absolute;
+    left: 85%;
+    display: none;
+    margin-bottom: 5%;
+}
